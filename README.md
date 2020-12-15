@@ -51,3 +51,9 @@
 ![](https://github.com/IgorSondors/TurnSrverOn/blob/main/screenshots/photo_2020-12-15_11-23-45.jpg)
 
 Распознаватель запущен и работает при получении картинки с паспортом по адресу url 'http://localhost:2020/api/test/passrecogn' (http://0.0.0.0:2020/api/test/passrecogn или http://127.0.0.1:2020/api/test/passrecogn)
+
+4) Для проверки работы сервера можно запустить скрипт client_for_test.py, который имитирует запрос клиента на сервер в нужном формате
+
+- Зпустить можно из терминала, открытого из папки cloud_server, а также с активированным виртуальным окружением (conda activate ИМЯ_ВИРТ_ОКРУЖЕНИЯ)
+
+- Либо запускаем client_for_test.py прямо из текстового редактора 
