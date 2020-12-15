@@ -50,4 +50,4 @@
 
 ![](https://github.com/IgorSondors/TurnSrverOn/blob/main/screenshots/photo_2020-12-15_11-23-45.jpg)
 
-Распознаватель запущен и работает при получении картинки с паспортом по адресу url 'http://localhost:2020/api/test/passrecogn' (http://0.0.0.0:2020/ или http://127.0.0.1:2020)
+Распознаватель запущен и работает при получении картинки с паспортом по адресу url 'http://localhost:2020/api/test/passrecogn' (http://0.0.0.0:2020/api/test/passrecogn или http://127.0.0.1:2020/api/test/passrecogn)
