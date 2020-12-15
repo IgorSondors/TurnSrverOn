@@ -38,4 +38,14 @@
 
 ![Теминал должен выглядеть примерно так](https://github.com/IgorSondors/TurnSrverOn/blob/main/screenshots/photo_2020-12-15_11-14-32.jpg)
 
-![Командой ls также можно из терминала увидеть содержимое папки, в которой мы находимся](https://github.com/IgorSondors/TurnSrverOn/blob/main/screenshots/photo_2020-12-15_11-15-59.jpg)
+- Командой ls также можно из терминала увидеть содержимое папки, в которой мы находимся
+
+![](https://github.com/IgorSondors/TurnSrverOn/blob/main/screenshots/photo_2020-12-15_11-15-59.jpg)
+
+3) Запускаем сервер, прописываем в терминале
+
+- python server.py
+
+В терминале свидетельствует запуск сервера такая картина 
+
+![](https://github.com/IgorSondors/TurnSrverOn/blob/main/screenshots/photo_2020-12-15_11-23-45.jpg)
