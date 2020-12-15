@@ -29,3 +29,13 @@
 1) Откройте терминал из папки, в которой содержится код сервера (cloud_server)
 
 ![](https://github.com/IgorSondors/TurnSrverOn/blob/main/screenshots/photo_2020-12-15_11-10-06.jpg)
+
+- Кликните правой кнопкой мыши на папку, выбирите Open in Terminal
+
+2) Введите команду в терминале
+
+- conda activate ИМЯ_ВИРТ_ОКРУЖЕНИЯ
+
+![Теминал должен выглядеть примерно так](https://github.com/IgorSondors/TurnSrverOn/blob/main/screenshots/photo_2020-12-15_11-14-32.jpg)
+
+![Командой ls также можно из терминала увидеть содержимое папки, в которой мы находимся](https://github.com/IgorSondors/TurnSrverOn/blob/main/screenshots/photo_2020-12-15_11-15-59.jpg)
