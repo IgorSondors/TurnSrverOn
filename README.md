@@ -1,6 +1,20 @@
 ## Для запуска сервера потребуется настроить виртуальное окружение, в котором будет выполняться программа
 
-### Создание виртуального окружения на рабочей Ubuntu 18 с установленной Anaconda и pip:
+### Требования - ОС Ubuntu с установленной Anaconda и pip
+
+```
+No LSB modules are available.
+
+Distributor ID: Ubuntu
+
+Description: Ubuntu 18.04.4 LTS
+
+Release: 18.04
+
+Codename: bionic
+```
+
+### Создание виртуального окружения:
 
 #### Запустите терминал: ctrl+alt+T
 
