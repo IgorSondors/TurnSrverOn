@@ -57,3 +57,13 @@
 - Зпустить можно из терминала, открытого из папки cloud_server, а также с активированным виртуальным окружением (conda activate ИМЯ_ВИРТ_ОКРУЖЕНИЯ)
 
 - Либо запускаем client_for_test.py прямо из текстового редактора 
+
+![](https://github.com/IgorSondors/TurnSrverOn/blob/main/screenshots/photo_2020-12-15_11-35-54.jpg)
+
+Нажимаем Дебаггинг - клиентский запрос отправлен. Через 5-10 секунд видим ответ с сервера, который пришел обратно клиенту на адрес, с которого приходил запрос
+
+![](https://github.com/IgorSondors/TurnSrverOn/blob/main/screenshots/photo_2020-12-15_11-36-57.jpg)
+
+На стороне сервера так же видим весь процесс и его логи
+
+![](https://github.com/IgorSondors/TurnSrverOn/blob/main/screenshots/photo_2020-12-15_11-37-01.jpg)
