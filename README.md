@@ -28,3 +28,4 @@
 
 1) Откройте терминал из папки, в которой содержится код сервера (cloud_server)
 
+![](https://github.com/IgorSondors/TurnSrverOn/blob/main/screenshots/photo_2020-12-15_11-10-06.jpg)
